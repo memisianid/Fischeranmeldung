@@ -1,0 +1,18 @@
+[
+    {
+        "fischerLizenz": "PeterBachmann690",
+        "angelrute": "profi",
+        "gefangeFische": "grosser seelachs, kleiner barsch, mittlerer hecht",
+        "angelTag": "06.05.05",
+        "wert": "1000",
+        "fischart" : "seelachs, barsch, hecht"
+    },
+    {
+        "fischerLizenz": "AnidMemisi666",
+        "angelrute": "standard",
+        "gefangeFische": "kleine forelle",
+        "angelTag": "01.03.21",
+        "wert": "200",
+        "fischart" : "forelle"
+    }
+]
